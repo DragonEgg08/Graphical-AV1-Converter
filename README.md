@@ -1,2 +1,1 @@
-If the program crahes, install python and type in the console:
-pip install easygui
+Dieses Programm ist für die einfache, grafische Konvertierung von Videos in das sparsame AV1-Format, dieses Projekt ist erstmal nur auf Deutsch verfügbar
